@@ -1,0 +1,2 @@
+[10-Apr-2018 00:57:33 Europe/Kiev] PHP Fatal error:  Call to undefined function get_header() in /home/veronicaplus/public_html/wp-content/themes/wp/index.php on line 1
+[10-Apr-2018 02:45:30 Europe/Kiev] PHP Fatal error:  Call to undefined function get_header() in /home/veronicaplus/public_html/wp-content/themes/wp/index.php on line 1
